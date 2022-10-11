@@ -1,0 +1,41 @@
+1. Positive, negative, zero
+Enter a number: 96
+POSITIVE
+2. PRIME or COMPOSITE number
+Enter the last digit of your student number: 9
+PRIME
+3. Length of your fullname
+Enter your firstname: KimberlyErika
+Enter your surname: Montales
+The sum of the character of your firstname and surname is: 21
+4. Largest Number
+Enter first number: 8
+Enter second number: 9
+Enter third number: 7
+The largest number is: 9
+5. Vowel or Consonant
+Enter the first character of your first name: K
+false
+6. Student number validation
+Enter your ten digit student number: 2022104869
+VALID
+7. Case sensitivity check
+Enter your firstname in UPPERCASE: KIMBERLYERIKA
+Enter your surname in lowercase: montales
+VALID
+8. Nested conditions
+Enter your enrolled course (BSIT or BSCS): BSIT
+Enter your specialization (MWAA or MAA): MAA
+YOUR SPEACILIZATION IS MAA
+9. SHS Strand selection
+STEM
+ICT
+HUMSS
+HOME ECONOMICS
+ARTS AND DESIGN
+TVL MARITIME
+Enter your SHS strand: ICT
+Your strand is ICT
+10. Validate student email address
+Enter your student email address: montaleskn@students.national-u.edu.ph
+VALID EMAIL
